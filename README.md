@@ -1,2 +1,2 @@
 # PraticandoJava
-Exercícios que fiz em Java para gravar alguns conceitos na prática.
+Exercícios de Java que fiz durante meus estudos.
